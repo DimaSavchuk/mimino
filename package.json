@@ -2,10 +2,10 @@
   "name": "mimino-himars",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://svoits.github.io/mimino-himars",
+  "homepage": "https://DimaSavchuk.github.io/mimino",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /mimino-himars/"
+    "build": "parcel build src/*.html --public-url /mimino/"
   },
   "repository": {
     "type": "git",
